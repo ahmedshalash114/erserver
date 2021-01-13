@@ -2,7 +2,7 @@
 version: 2
 plan:
   project-key: ERS
-  key: ERSM
+  key: MAIN
   name: ER Server Main Build
 stages:
 - Maven Build:
@@ -33,7 +33,7 @@ other:
 ---
 version: 2
 plan:
-  key: ERSM
+  key: ERS-MAIN
 plan-permissions:
 - roles:
   - logged-in
