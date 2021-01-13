@@ -33,7 +33,7 @@ other:
 ---
 version: 2
 plan:
-  key: ERSMAIN
+  key: ERSM
 plan-permissions:
 - roles:
   - logged-in
