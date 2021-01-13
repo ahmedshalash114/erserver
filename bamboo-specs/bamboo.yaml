@@ -2,7 +2,7 @@
 version: 2
 plan:
   project-key: ERS
-  key: ERSMAIN
+  key: ERSM
   name: ER Server Main Build
 stages:
 - Maven Build:
